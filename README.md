@@ -1,11 +1,12 @@
 ## A Simple Python Script to Extract a Leetcode Contests Ranking to a local file  
 
 ### Requirements
-- [x] requests module pip install requests  
+-  requests module  
+```pip install requests ```
 
 ### Run  
-- Clone the Repo  
-- python3 main.py   
+- Clone the Repo  ```git clone https://github.com/jayesh212/leetcode-contest-rankings-extractor```  
+- ```python3 main.py```   
 
 ### Input
 
